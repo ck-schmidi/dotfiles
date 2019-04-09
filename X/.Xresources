@@ -1,38 +1,79 @@
-*background:            #000000
-*foreground:            #657b83
-*fading:                15
-*fadeColor:             black
-*cursorColor:           #16A085
-*pointerColorBackground:#2B2C2B
-*pointerColorForeground:#16A085
+!!*background:            #000000
+!!*foreground:            #657b83
+!!*fading:                15
+!!*fadeColor:             black
+!!*cursorColor:           #16A085
+!!*pointerColorBackground:#2B2C2B
+!!*pointerColorForeground:#16A085
+!!
+!!!! black dark/light
+!!*color0:                #282928
+!!*color8:                #272827
+!!
+!!!! red dark/light
+!!*color1:                #983133
+!!*color9:                #985F31
+!!
+!!!! green dark/light
+!!*color2:                #1D584D
+!!*color10:               #16A085
+!!
+!!!! yellow dark/light
+!!*color3:                #5CE022
+!!*color11:               #63B93D
+!!
+!!!! blue dark/light
+!!*color4:                #001B33
+!!*color12:               #839496
+!!
+!!!! cyan dark/light
+!!*color6:                #4F6A98
+!!*color14:               #2269E0
+!!
+!!!! white dark/light
+!!*color7:                #fdf6e3
+!!*color15:               #fdf6e3
+!
 
-!! black dark/light
-*color0:                #282928
-*color8:                #272827
 
-!! red dark/light
-*color1:                #983133
-*color9:                #985F31
 
-!! green dark/light
-*color2:                #1D584D
-*color10:               #16A085
+! special
+*.foreground:   #515253
+*.background:   #fcfdfe
+*.cursorColor:  #515253
 
-!! yellow dark/light
-*color3:                #5CE022
-*color11:               #63B93D
+! black
+*.color0:       #0c0d0e
+*.color8:       #737475
 
-!! blue dark/light
-*color4:                #001B33
-*color12:               #839496
+! red
+*.color1:       #e31a1c
+*.color9:       #e31a1c
 
-!! cyan dark/light
-*color6:                #4F6A98
-*color14:               #2269E0
+! green
+*.color2:       #31a354
+*.color10:      #31a354
 
-!! white dark/light
-*color7:                #fdf6e3
-*color15:               #fdf6e3
+! yellow
+*.color3:       #dca060
+*.color11:      #dca060
+
+! blue
+*.color4:       #3182bd
+*.color12:      #3182bd
+
+! magenta
+*.color5:       #756bb1
+*.color13:      #756bb1
+
+! cyan
+*.color6:       #80b1d3
+*.color14:      #80b1d3
+
+! white
+*.color7:       #b7b8b9
+*.color15:      #fcfdfe
+
 
 !Xft.dpi: 96
 Xft.dpi: 96
