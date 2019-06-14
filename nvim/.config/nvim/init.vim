@@ -11,7 +11,7 @@ Plug 'fatih/vim-go'
 Plug 'rhysd/vim-go-impl'
 "Plug 'lervag/vimtex'
 "Plug 'vim-scripts/DrawIt'
-Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
+"Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 "Plug 'dylanaraps/wal.vim'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'fgsch/vim-varnish'
