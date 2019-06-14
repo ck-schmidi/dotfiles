@@ -18,7 +18,7 @@ Plug 'fgsch/vim-varnish'
 
 
 " vim-plug
-Plug 'zchee/deoplete-go', { 'do': 'make'}
+"Plug 'zchee/deoplete-go', { 'do': 'make'}
 Plug 'elmcast/elm-vim'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'danilo-augusto/vim-afterglow'
