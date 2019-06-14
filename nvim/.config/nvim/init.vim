@@ -36,7 +36,7 @@ call plug#end()
 :map <ScrollWheelDown> <C-E>
 :map <S-ScrollWheelDown> <C-D>
 
-colorscheme afterglow
+"colorscheme afterglow
 
 let mapleader=","
 
@@ -56,8 +56,8 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 
 
 " open NerdTree when opening vim by default
-au VimEnter * NERDTree
-autocmd VimEnter * wincmd p
+" au VimEnter * NERDTree
+" autocmd VimEnter * wincmd p
 
 
 " CtrlP 
